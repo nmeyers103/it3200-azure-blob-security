@@ -1,0 +1,5 @@
+This is my Azure Blob Storage security assignment.
+
+This file was uploaded using a Microsoft Entra ID service principal.
+
+The application has Storage Blob Data Contributor permissions.
